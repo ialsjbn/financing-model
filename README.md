@@ -1,5 +1,3 @@
-# Agent-Based Financing Model
-
 # An Agent-Based Financing Model for Post-Earthquake Housing Recovery
 
 This repository contains the code developed for the paper: An Agent-Based Financing Model for Post-Earthquake Housing Recovery: Quantifying Inequitable Recovery Across Income Groups. If you find this code useful in your research, please consider citing.
