@@ -1,6 +1,11 @@
 # An Agent-Based Financing Model for Post-Earthquake Housing Recovery
 
-This repository contains the code developed for the paper: An Agent-Based Financing Model for Post-Earthquake Housing Recovery: Quantifying Inequitable Recovery Across Income Groups. If you find this code useful in your research, please consider citing.
+This repository contains the code developed for the paper: 
+
+Alisjahbana, I., Moura-Cook, A., Costa, R., Kiremidjian, A., _In Review_, An Agent-based Financing Model for Post-Earthquake Housing Recovery: Quantifying Recovery Inequalities Across Income Groups", 
+
+Please cite the paper if you use any data or analyses from this study. Pre-print version of the paper is available [here](https://www.researchgate.net/publication/350190559_An_Agent-based_Financing_Model_for_Post-Earthquake_Housing_Recovery_Quantifying_Recovery_Inequalities_Across_Income_Groups).
+
 
 ![FinancingModel.png](FinancingModel.png)
 
