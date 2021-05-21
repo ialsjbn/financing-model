@@ -1,6 +1,6 @@
 #### GENERAL INPUT ####
 # Input files
-building_input = 'data/building_damage_owner.pkl' # don't change
+building_input = 'data/building_damage_owner.csv' # don't change
 
 # Filename to output
 filename_output = 'results/basecase.csv' # change this

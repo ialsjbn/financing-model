@@ -528,7 +528,7 @@ if __name__ == '__main__':
 	print('Output file: ', filename_output)
 
 	# Import building damage data
-	bldg_data = pd.read_pickle(building_input)
+	bldg_data = pd.read_csv(building_input, index_col = 0)
 	print('Number of Homeowner Buildings:', len(bldg_data))
 	
 	# Create dataframe

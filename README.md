@@ -12,10 +12,11 @@ Please cite the paper if you use any data or analyses from this study. Pre-print
 ## Running Code
 
 1. Change parameters in `configs/basecase.py`
-    - A sample input file is available in `data/building_damage_owner_pkl`
+    - A sample input file is available in `data/building_damage_owner.csv`
 2. Open `sanjose_model.py` and change line 12 according to the name from step 1. Example: if the name is: `basecase.py`, then line 12 becomes: `from configs.basecase import *`
-3. Run the code: `python sanjose_model.py`
-4. Results will be saved according to the name defined in `configs/basecase.py`
+3. Create a `results` folder
+4. Run the code: `python sanjose_model.py`
+5. Results will be saved as `.csv` according to the name defined in `configs/basecase.py` in the `results` folder
 
 ## Visualizing Results
 
